@@ -1,0 +1,14 @@
+The Battle of the Neighborhoods - Week 1
+Data :
+One city will be analysed in this project : Rome.
+
+We will be using the below datasets for analysing Rome:
+
+Data 1 : Neighborhood with renting/selling prices. In order to include an important criteria such as the economical one, we need to divide each neighborhood for its average renting cost for sqm.
+This dataset exists for free on the web. Link to the dataset is : https://www.immobiliare.it/mercato-immobiliare/lazio/roma/
+
+Data 2 : Second data which will be used is the number of restaurant for each of the neighborhood calling the Foursquare API and using Rome geographical coordinates: this aims to give us a picture of the level of concurrency for all the restaurant already present in the territory.
+
+Data 3 : Third data will be utilized retrieving all the places of interest for each neighborhood for the Foursquare API because it's important that our location has a minimal number of places where the people could possibly go.
+
+Data 4: Fourth and last data, we need to include which is the least common venue in the territory, so that will segment and Identify which is the best category to invest on. This is possible via Foursquare, we'll gather the categories for each neighborhood.
